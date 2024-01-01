@@ -1,5 +1,22 @@
+![logo](https://github.com/Arturo254/win-tools/assets/87346871/b48b3e28-de85-405d-badf-ea26a7e0b1be)
+
+
 # win-tools
-Herramientas utiles para  Windows 7,8,10,11
+Un de los mejoores kits de herramientass para tu windows. 
+## Herramientas disponibles:
+
+### Activation Methods:
+
+#### [1] HWID | Windows | Permanent
+#### [2] Ohook | Office | Permanent
+#### [3] kms | Windows | Year 2038
+#### [4] Online kms | Windows / Office | 188 Days
+#### [5] Activation Status
+
+#### [6] Troubleshoot
+
+#### [7] Extras
+
 # Uso
 > [!TIP]
 > La herramienta funciona mejor en Windows 8.1,10 y 11.
