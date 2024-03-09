@@ -15,7 +15,11 @@ Un de los mejoores kits de herramientass para tu windows.
 
 #### [6] Troubleshoot
 
+![image](https://github.com/Arturo254/win-tools/assets/87346871/e660fbb8-c086-401a-8717-f1e0fe62542b)
+
 #### [7] Extras
+![image](https://github.com/Arturo254/win-tools/assets/87346871/58662d8a-1c7e-48c2-a893-b885399e8f8c)
+
 
 # Uso
 > [!TIP]
